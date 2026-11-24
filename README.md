@@ -10,3 +10,6 @@ This repository contains Python data analysis and visualization tasks.
 - Salary Histogram
 - ID vs Salary Scatter Plot
 - Monthly Sales Line Chart
+
+## Project Status
+Ready for final submission.
